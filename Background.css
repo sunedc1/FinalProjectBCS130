@@ -1,0 +1,231 @@
+.u-section-1 {
+  background-image: none;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 924px;
+}
+
+.u-section-1 .u-layout-wrap-1 {
+  width: 1130px;
+  margin: 55px 0 0 auto;
+}
+
+.u-section-1 .u-layout-cell-1 {
+  min-height: 488px;
+}
+
+.u-section-1 .u-image-1 {
+  background-image: url("images/ferrari.jpg");
+}
+
+.u-section-1 .u-container-layout-1 {
+  padding: 20px 30px;
+}
+
+.u-section-1 .u-line-1 {
+  width: 133px;
+  height: 10px;
+  transform-origin: left center 0px;
+  margin: 0 auto 0 5px;
+}
+
+.u-section-1 .u-line-2 {
+  width: 133px;
+  height: 10px;
+  transform-origin: left center 0px;
+  position: absolute;
+  top: 428px;
+  left: auto;
+  right: 15px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 1rem;
+  margin: 345px 254px 0 0;
+}
+
+.u-section-1 .u-layout-cell-2 {
+  min-height: 418px;
+}
+
+.u-section-1 .u-container-layout-2 {
+  padding: 20px 0;
+}
+
+.u-section-1 .u-group-1 {
+  min-height: 444px;
+  box-shadow: 5px -4px 8px 0px rgba(26,26,26,1);
+  background-image: linear-gradient(white, #d9d9d9);
+  width: 541px;
+  margin: -6px auto -20px 0;
+}
+
+.u-section-1 .u-container-layout-3 {
+  padding: 30px 30px 19px;
+}
+
+.u-section-1 .u-text-2 {
+  line-height: 1.7;
+  font-size: 1.25rem;
+  font-style: normal;
+  margin: 0 32px 0 0;
+}
+
+.u-section-1 .u-image-2 {
+  height: 396px;
+  margin-top: 9px;
+  margin-bottom: 5px;
+  object-position: 50% 72.79%;
+  filter: brightness(0.9);
+  animation-duration: 2250ms;
+  margin-right: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 814px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 940px;
+    min-height: 267px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    background-position: 50% 50%;
+    min-height: 573px;
+  }
+
+  .u-section-1 .u-line-2 {
+    top: 513px;
+    right: 12px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-top: 443px;
+    margin-right: 159px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 348px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 455px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: auto;
+    margin-right: 21px;
+  }
+
+  .u-section-1 .u-image-2 {
+    margin-right: initial;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 551px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    width: 720px;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 777px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 628px;
+    margin-right: 44px;
+    margin-left: 5px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 276px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 345px;
+  }
+
+  .u-section-1 .u-text-2 {
+    margin-right: 25px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 651px;
+  }
+
+  .u-section-1 .u-layout-wrap-1 {
+    min-height: 410px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 469px;
+  }
+
+  .u-section-1 .u-container-layout-1 {
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 332px;
+  }
+
+  .u-section-1 .u-container-layout-3 {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+
+  .u-section-1 .u-image-2 {
+    object-position: 0% 72.79%;
+    margin-right: initial;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-layout-wrap-1 {
+    min-height: 251px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-1 .u-layout-cell-1 {
+    min-height: 304px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 0.875rem;
+    margin-top: 171px;
+    margin-right: 182px;
+    margin-bottom: -13px;
+  }
+
+  .u-section-1 .u-layout-cell-2 {
+    min-height: 100px;
+  }
+
+  .u-section-1 .u-group-1 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-image-2 {
+    object-position: 12.03% 72.79%;
+    margin-right: initial;
+  }
+}
